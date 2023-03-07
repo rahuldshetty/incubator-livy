@@ -1073,7 +1073,7 @@
         <json4s.spark-2.12.version>3.6.6</json4s.spark-2.12.version>
         <json4s.version>${json4s.spark-2.12.version}</json4s.version>
         <spark.bin.download.url>
-          https://archive.apache.org/dist/spark/spark-3.0.0/spark-3.0.0-bin-hadoop2.7.tgz
+          https://archive.apache.org/dist/spark/spark-3.3.2/spark-3.3.2-bin-hadoop3.tgz
         </spark.bin.download.url>
         <spark.bin.name>spark-3.0.0-bin-hadoop2.7</spark.bin.name>
       </properties>
